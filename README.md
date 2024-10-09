@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatlem</h1>
+<h1 align="center">🎮 I'm Fatlem 🎧</h1>
 
 - 📝 I regularly write articles on [fatlem.blogspot](https://fatlem.blogspot.com/2023/06/fatlem.html)
 - 🔭 I’m currently working on ...
