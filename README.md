@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/fatelem_" target="blank">
+  <a href="https://www.instagram.com/fatelm_/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatelem_" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/@fatlemyo" target="blank">
+  <a href="https://www.youtube.com/@FatlemYo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fatlemyo" height="30" width="40" />
   </a>
   <a href="https://discord.gg/fatlem_" target="blank">
