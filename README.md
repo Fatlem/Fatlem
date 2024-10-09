@@ -1,8 +1,3 @@
-<!--
-**Fatlem/Fatlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 <h1 align="center">Hi 👋, I'm Fatlem</h1>
 - 📝 I regularly write articles on [https://fatlem.blogspot.com/2023/06/fatlem.html](https://fatlem.blogspot.com/2023/06/fatlem.html)
 - 🔭 I’m currently working on ...
