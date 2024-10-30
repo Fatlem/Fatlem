@@ -10,6 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### 📊 Stats
+        
+![Visitor Count](https://komarev.com/ghpvc/?username=koriebruh&color=brightgreen) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/fatelm_/" target="blank">
