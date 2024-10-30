@@ -24,25 +24,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/android.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/arduino.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/c.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/css.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/figma.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/flutter.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/html.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/php.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Fatlem/yourrepositoryname/main/icons/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/android.svg" alt="Android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/arduino.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/c.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/css.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/figma.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/flutter.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/git.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/html.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/php.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Fatlem/Fatlem/main/icons/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatlem&show_icons=true&locale=en&layout=compact" alt="fatlem" /></p>
 
