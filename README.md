@@ -2,7 +2,7 @@
 
 - 📝 I regularly write articles on [fatlem.blogspot](https://fatlem.blogspot.com/2023/06/fatlem.html)
 - 💬 Ask me about Fatlem
-- 📫 How to reach me: **faathireltasleem22@gmail.com**
+- 📫 How to reach me  **faathireltasleem224@gmail.com**
 
 
 ### 📊 Stats
