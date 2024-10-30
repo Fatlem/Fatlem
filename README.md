@@ -1,9 +1,12 @@
 <h1 align="center">🎮 I'm Fatlem 🎧</h1>
 
+- 🎮======================================================🎮
+- 🔭 I’m currently working on -
+- 🌱 I’m currently learning -
 - 📝 I regularly write articles on [fatlem.blogspot](https://fatlem.blogspot.com/2023/06/fatlem.html)
 - 📫 How to reach me  **faathireltasleem224@gmail.com**
 - 💬 Ask me about Fatlem
-- 🎮🕹️🎮
+- 🎮=====================================================🎮
 
 <img align="right" alt="Cute Anime Girl" src="https://media.tenor.com/images/72b7e5b95b35cfab44d29dfcce6e24c5/tenor.gif" width="360px"/>
 
