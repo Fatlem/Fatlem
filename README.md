@@ -5,7 +5,9 @@
 - 💬 Ask me about Fatlem
 - 🎮🕹️🎮
 
-<img align="right" alt="GIF" src="https://tenor.com//Fatlem/Fatlem/main/lYaB8rk2iB.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="left" alt="Cute Anime Girl" src="https://media.tenor.com/images/72b7e5b95b35cfab44d29dfcce6e24c5/tenor.gif" width="360px"/>
+
 
 ### 📊 Stats
         
