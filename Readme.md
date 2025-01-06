@@ -1,20 +1,28 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14a73906-d848-4c65-bec7-bf883d247a46/dfjz0xn-0468ad3a-d3b2-45d9-8cd6-0333676c8b88.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0YTczOTA2LWQ4NDgtNGM2NS1iZWM3LWJmODgzZDI0N2E0NlwvZGZqejB4bi0wNDY4YWQzYS1kM2IyLTQ1ZDktOGNkNi0wMzMzNjc2YzhiODguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-CR_VGrJFRY9KrVMBUBdotdOSHKoFovi1HNpawfEZ-c)
-
 <h1 align="center">🎮 I'm Fatlem 🎧</h1>
-
-- 🎮=============================================🎮
-- 🔭 I’m currently working on -
-- 🌱 I’m currently learning -
-- 📝 I regularly write articles on [fatlem.blogspot](https://fatlem.blogspot.com/2023/06/fatlem.html)
-- 📫 How to reach me  **faathireltasleem224@gmail.com**
-- 💬 Ask me about Fatlem
-- 🎮=============================================🎮
-
-<img align="right" alt="Cute Anime Girl" src="https://media.tenor.com/images/72b7e5b95b35cfab44d29dfcce6e24c5/tenor.gif" width="360px"/>
+<div style="text-align: center;">
+  <img src="https://media1.tenor.com/m/jAuU3PufpPQAAAAd/vestia-zeta-zeta.gif" alt="Gift 4" width="1000" style="margin: 20px 0;" />
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: left;">
+    <ul>
+      <li>🎮=============================================🎮</li>
+      <li>🔭 I’m currently working on -</li>
+      <li>🌱 I’m currently learning -</li>
+      <li>📝 I regularly write articles on <a href="https://fatlem.blogspot.com/2023/06/fatlem.html">fatlem.blogspot</a></li>
+      <li>📫 How to reach me: <strong>faathireltasleem224@gmail.com</strong></li>
+      <li>💬 Ask me about Fatlem</li>
+      <li>🎮=============================================🎮</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media1.tenor.com/m/86aCV7UNpwwAAAAd/vestia-zeta-hololive-id.gif" alt="Gift 1" width="200" />
+    <img src="https://media1.tenor.com/m/teETz-RaLzgAAAAd/cat-stray-cat.gif" alt="Gift 2" width="200" style="margin-left: 10px;" />
+    <img src="https://media1.tenor.com/m/ZZ5uiYHN-moAAAAd/vestia-zeta.gif" alt="Gift 3" width="200" style="margin-left: 10px;" />
+  </div>
+</div>
 
 ### 📊 Stats
-        
-![Visitor Count](https://komarev.com/ghpvc/?username=Fatlem&color=brightgreen) 
+![Visitor Count](https://komarev.com/ghpvc/?username=Fatlem&color=brightgreen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,7 +92,5 @@
   </a>
 </p>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatlem&show_icons=true&locale=en&layout=compact" alt="fatlem" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatlem&" alt="fatlem" /></p>
