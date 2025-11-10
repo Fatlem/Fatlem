@@ -103,27 +103,6 @@ hobbies:
 
 <br>
 
-## 🎯 Current Projects
-
-<div align="center">
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatlem&repo=Technology-REST&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Fatlem/Technology-REST)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatlem&repo=Bukubari-App&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Fatlem/Bukubari-App)
-  
-</div>
-
-<br>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
-<br>
-
 ## 🎮 Fun Corner
 
 <div align="center">
