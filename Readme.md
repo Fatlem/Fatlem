@@ -1,139 +1,174 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A277FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Fatlem;Welcome+to+my+Profile!;Let's+Code+Together!" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <img src="https://media1.tenor.com/m/jAuU3PufpPQAAAAd/vestia-zeta-zeta.gif" alt="Vestia Zeta" width="800" />
+  <table border="0" width="100%">
+    <tr>
+      <td width="70%" valign="top">
+        <h1>Hi, I'm Faathir El Tasleem 👋</h1>
+        <h3>Full-stack Web Developer | JavaScript, React.js, Node.js & Laravel</h3>
+        <p>
+          I'm an Informatics student at Universitas Dian Nuswantoro (UDINUS) with a strong interest in <b>full-stack web development</b>, <b>modern web technologies</b>, and <b>interactive digital experiences</b>.
+        </p>
+        <p>
+          I enjoy building responsive, scalable, user-friendly applications and continuously improving my skills through real-world projects.
+        </p>
+        <br>
+        <p>
+          🌐 <a href="https://portofatlem.netlify.app"><b>portofatlem.netlify.app</b></a> &nbsp;|&nbsp; 
+          💼 <a href="https://linkedin.com/in/your-profile"><b>LinkedIn</b></a> &nbsp;|&nbsp; 
+          🐙 <a href="https://github.com/Fatlem"><b>@Fatlem</b></a> &nbsp;|&nbsp; 
+          📍 <b>Indonesia</b>
+        </p>
+      </td>
+      <td width="30%" align="center" valign="middle">
+        <img src="https://media1.tenor.com/m/86aCV7UNpwwAAAAd/vestia-zeta-hololive-id.gif" width="150" style="border-radius: 50%;" alt="Avatar"/>
+        <br><br>
+        <i>"Better Code, Bigger Dreams"</i>
+        <br><br>
+        <sub>🎯 Currently focusing on <b>Full-stack Web Development, React.js, and Cloud services.</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<div align="center">
-  
-  [![Visitor Count](https://komarev.com/ghpvc/?username=Fatlem&color=blueviolet&style=for-the-badge)](https://github.com/Fatlem)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatelm_/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FatlemYo)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fatlem_)
-  
-</div>
+## </>&nbsp; Tech Stack
+
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" width="33%">
+      <h4>Languages</h4>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <h4>Frameworks & Libraries</h4>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
+    <td valign="top" width="34%">
+      <h4>Tools & Others</h4>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## 🚀 About Me
+## 💼 Featured Projects
 
-<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/86aCV7UNpwwAAAAd/vestia-zeta-hololive-id.gif">
-
-```yaml
-name: Fatlem
-located_in: Indonesia
-current_focus: Learning & Building Cool Stuff
-education: Always Learning
-interests:
-  - Mobile Development
-  - Web Development
-  - Game Development
-  - UI/UX Design
-hobbies:
-  - Coding
-  - Gaming
-  - Watching Anime
-```
-
-- 🔭 Currently working on **exciting projects**
-- 🌱 Currently learning **Mobile & Web Development**
-- 📝 I write articles on [fatlem.blogspot.com](https://fatlem.blogspot.com/2023/06/fatlem.html)
-- 💬 Ask me about **anything tech-related**
-- 📫 Reach me at **faathireltasleem224@gmail.com**
-- ⚡ Fun fact: **I love anime and gaming!**
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <h3>Mount Yukihana</h3>
+      <sub><b>Roblox Adventure Map</b></sub>
+      <p>An adventure map developed in Roblox Studio with a checkpoint progression system, summit tracking, player titles, and anti-cheat mechanisms.</p>
+      <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square" />
+      <br><br>
+      🔗 <a href="#">View Repository →</a>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Science Quest</h3>
+      <sub><b>Educational Game</b></sub>
+      <p>An educational game concept designed to make learning more interactive through gamification.</p>
+      <br>
+      <img src="https://img.shields.io/badge/Game_Design-purple?style=flat-square" />
+      <img src="https://img.shields.io/badge/Interactive_Learning-blue?style=flat-square" />
+      <br><br>
+      🔗 <a href="#">View Repository →</a>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Peduli Sehat</h3>
+      <sub><b>Health Detection Website</b></sub>
+      <p>A web application concept for detecting common health conditions, developed as part of a collaborative academic project.</p>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/ML-green?style=flat-square" />
+      <br><br>
+      🔗 <a href="#">View Repository →</a>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Web Development Projects</h3>
+      <sub><b>Full-Stack & Frontend</b></sub>
+      <p>Web applications with CRUD operations, responsive interfaces, dashboards, and database integration.</p>
+      <br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <br><br>
+      🔗 <a href="#">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatlem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=61DAFB&text_color=FFFFFF" alt="Fatlem's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatlem&theme=radical&hide_border=true&background=0D1117&stroke=A277FF&ring=61DAFB&fire=FF6B6B&currStreakLabel=A277FF" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatlem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF" alt="Top Languages" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatlem&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A277FF&line=61DAFB&point=FF6B6B" alt="Contribution Graph" height="170" />
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fatlem&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=Fatlem&show_icons=true&theme=dark&hide_border=true" height="160" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatlem&layout=compact&theme=dark&hide_border=true" height="160" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-## 🎮 Fun Corner
-
 <div align="center">
-  <img src="https://media1.tenor.com/m/teETz-RaLzgAAAAd/cat-stray-cat.gif" width="200" alt="Cat GIF" />
-  <img src="https://media1.tenor.com/m/ZZ5uiYHN-moAAAAd/vestia-zeta.gif" width="200" alt="Vestia Zeta" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br>
 
-## 📫 Connect With Me
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faathireltasleem224@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatelm_/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FatlemYo)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fatlem_)
-  [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fatlem.blogspot.com/2023/06/fatlem.html)
-  
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Currently Learning</h3>
+      <ul>
+        <li>✅ Full-stack web architecture & API design</li>
+        <li>✅ Advanced React.js & Next.js development</li>
+        <li>✅ Database optimization (MySQL, PostgreSQL)</li>
+        <li>✅ Responsive UI/UX implementation</li>
+        <li>✅ Interactive experiences with Roblox Studio</li>
+      </ul>
+      <br>
+      <blockquote align="center">
+        💡 <i>Always learning, always building for a <b>better tomorrow</b>.</i>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Let's Connect</h3>
+      <p>I'm always open to learning, collaborating on full-stack projects, and exploring new opportunities in software development.</p>
+      <p><b>Let's build something meaningful together!</b></p>
+      <br>
+      🌐 <a href="https://portofatlem.netlify.app">portofatlem.netlify.app</a> <sub>Portfolio</sub><br>
+      💼 <a href="https://linkedin.com/in/your-profile">linkedin.com/in/your-profile</a> <sub>LinkedIn</sub><br>
+      🐙 <a href="https://github.com/Fatlem">github.com/Fatlem</a> <sub>GitHub</sub><br>
+      📍 <b>Indonesia</b> <sub>Based in</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
----
+<hr>
 
 <div align="center">
-  
-  ### 💖 Thanks for visiting my profile!
-  
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=30&fontAlignY=75&animation=twinkling&fontColor=gradient" width="100%"/>
-  
+  <sub><b>Faathir El Tasleem</b> | Informatics Student @ UDINUS | Full-stack Web Developer</sub>
 </div>
